@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using WebAPI_Practices.Services;
 
 namespace WebAPI_Practices.Middleware
 {

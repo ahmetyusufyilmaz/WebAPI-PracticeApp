@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 using WebAPI_Practices.DataAccess;
 using WebAPI_Practices.Entities;
 using WebAPI_Practices.Entities.ViewModels;
+using WebAPI_Practices.Validations;
 
 namespace WebAPI_Practices.Controllers
 {
